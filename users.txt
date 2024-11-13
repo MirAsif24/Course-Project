@@ -1,0 +1,24 @@
+Username: Asif
+Password: Asif
+UserType: farmer
+ID: 2024
+
+
+Username: Asif
+Password: Asif
+UserType: farmer
+ID: 2025
+
+
+Username: Asif
+Password: Asif
+UserType: farmer
+ID: 2026
+
+
+Username: Asif
+Password: Asif
+UserType: retailer
+ID: 4027
+
+
